@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;Eu+sou+Cientista+de+Dados;F%C3%A3+de+Metal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,16 +8,16 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um aspirante a **Cientista de Dados** focado em transformar dados em estratégia. Tenho um interesse em como os dados podem melhorar a sociedade de várias formas.
+Aspiring **Data Scientist**
 
-- 🔭 **Atualmente trabalhando em:** Implementação e testes de LIMS, Análise de Dados
-- 🧠 **Interesses de Estudo:** Línguas estrangeiras
-- 💡 **Curiosidade:** Já ganhei um Hackathon na USP :P
-- 🎨 **Hobbies:** Quando não estou treinando, jogando xadrez e puzzles, estou ouvindo metal ou tocando Alice in Chains no violão.
+- 🔭 **Currently working on:** LIMS implementation and testing, Data Analysis.
+- 🧠 **Study Interests:** Foreign languages
+- 💡 **Fun Fact:** I once won a Hackathon at USP :P
+- 🎨 **Hobbies:** When I'm not working out, playing chess and puzzles, I'm listening to metal or playing Alice in Chains.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
