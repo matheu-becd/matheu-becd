@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;Eu+sou+Cientista+de+Dados;Apaixonado+por+Python+%26+Math;F%C3%A3+de+Metal+%26+Pixel+Art" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;Eu+sou+Cientista+de+Dados;F%C3%A3+de+Metal+%26+Pixel+Art" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,12 +8,12 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um **Cientista de Dados** focado em transformar dados em estratégia. Tenho um interesse profundo pela intersecção entre programação e matemática teórica.
+Sou um aspirante a **Cientista de Dados** focado em transformar dados em estratégia. Tenho um interesse em como os dados podem melhorar a sociedade de várias formas.
 
-- 🔭 **Atualmente trabalhando em:** Projetos de Governança de Dados e aplicações com Streamlit.
-- 🧠 **Interesses de Estudo:** Cadeias de Markov, Processos de Poisson e Álgebra Linear.
-- 💡 **Curiosidade:** Já ganhei um Hackathon na USP criando uma ferramenta de acessibilidade em 36h!
-- 🎨 **Hobbies:** Quando não estou codando, estou criando Pixel Art ou tocando Alice in Chains na guitarra.
+- 🔭 **Atualmente trabalhando em:** Implementação e testes de LIMS, Análise de Dados
+- 🧠 **Interesses de Estudo:** Línguas estrangeiras
+- 💡 **Curiosidade:** Já ganhei um Hackathon na USP :P
+- 🎨 **Hobbies:** Quando não estou treinando, jogando xadrez e puzzles, estou ouvindo metal ou tocando Alice in Chains no violão.
 
 ---
 
