@@ -32,5 +32,5 @@ Sou um aspirante a **Cientista de Dados** focado em transformar dados em estratÃ
 ### ğŸ Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/matheu-becd/matheu-becd/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/matheu-becd/matheu-becd/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 </div>
