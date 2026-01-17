@@ -6,18 +6,18 @@
   <img src="https://komarev.com/ghpvc/?username=matheu-becd&label=Profile%20Views&color=0e75b6&style=flat" alt="matheu-becd" />
 </p>
 
-### 👨‍💻 Sobre Mim
+### About Me
 
 Aspiring **Data Scientist**
 
-- 🔭 **Currently working on:** LIMS implementation and testing, Data Analysis.
-- 🧠 **Study Interests:** Foreign languages
-- 💡 **Fun Fact:** I once won a Hackathon at USP :P
-- 🎨 **Hobbies:** When I'm not working out, playing chess and puzzles, I'm listening to metal or playing Alice in Chains.
+- **Currently working on:** Data Analysis, LIMS implementation and testing
+- **Study Interests:** Foreign languages
+- **Fun Fact:** I once won a Hackathon at USP 
+- **Hobbies:** When I'm not working out, playing chess and puzzles, I'm listening to metal or playing Alice in Chains.
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Stacks
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
