@@ -29,7 +29,7 @@ Aspiring **Data Scientist**
 
 ---
 
-### 🐍 Snake
+### 🐍 Git Snake :p
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/matheu-becd/matheu-becd/output/github-contribution-grid-snake.gif" alt="Snake animation" />
