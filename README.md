@@ -29,11 +29,8 @@ Sou um aspirante a **Cientista de Dados** focado em transformar dados em estrat�
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🐍 Snake
 
 <div align="center">
-  <a href="https://github.com/matheu-becd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheu-becd&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheu-becd&layout=compact&theme=dracula"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/matheu-becd/matheu-becd/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
