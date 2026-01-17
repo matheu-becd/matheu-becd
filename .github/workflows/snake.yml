@@ -23,9 +23,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            # PALETA ARCADE NEON (CYBERPUNK)
-            # Cobra rosa neon, pontos em roxo e azul drácula
-            dist/github-contribution-grid-snake.gif?color_snake=#ff79c6&color_dots=#282a36,#44475a,#6272a4,#bd93f9,#8be9fd
+            # PALETA GAME BOY ORIGINAL (4 Tons de Verde)
+            # Fundo: #9bbc0f (Verde clarinho da tela)
+            # Pontos vazios: #9bbc0f
+            # Pontos médios: #8bac0f e #306230
+            # Cobra/Pontos cheios: #0f380f (Verde quase preto)
+            dist/github-contribution-grid-snake.gif?color_snake=#0f380f&color_dots=#9bbc0f,#8bac0f,#306230,#0f380f
 
       - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
