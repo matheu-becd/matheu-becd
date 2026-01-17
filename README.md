@@ -12,7 +12,7 @@ Aspiring **Data Scientist**
 
 - **Currently working on:** Data Analysis, LIMS implementation and testing
 - **Study Interests:** Foreign languages
-- **Fun Fact:** I once won a Hackathon at USP 
+- **Curiosity:** I once won a Hackathon at USP 
 - **Hobbies:** When I'm not working out, playing chess and puzzles, I'm listening to metal or playing Alice in Chains.
 
 ---
