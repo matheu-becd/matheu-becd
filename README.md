@@ -10,7 +10,7 @@
 
 Aspiring **Data Scientist**
 
-- **Currently working on:** Data Analysis, LIMS implementation and testing
+- **Currently working on:** Data Analysis & Data Science research
 - **Study Interests:** Foreign languages
 - **Curiosity:** I once won a Hackathon at USP 
 - **Hobbies:** When I'm not working out, playing chess and puzzles, I'm listening to metal or playing Alice in Chains.
